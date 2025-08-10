@@ -23,6 +23,11 @@
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
+ <!-- Instagram -->
+  <a href="https://instagram.com/just.elshan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
