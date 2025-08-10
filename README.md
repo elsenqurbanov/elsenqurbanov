@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/elshenqurbanov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
- <a href="mailto:elsenqurbanov@gmail.com">
+ <a href="mailto:elsenqurbanov309@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
