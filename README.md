@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/elshenqurbanov" target="_blank">
+  <a href="https://linkedin.com/in/elsenqurbanov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
  <a href="mailto:elsenqurbanov309@gmail.com">
